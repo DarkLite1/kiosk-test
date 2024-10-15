@@ -1,0 +1,98 @@
+{
+  "header": {
+    "navigation": {
+      "home": "Home",
+      "shortcuts": "Shortcuts",
+      "help": "Help"
+    }
+  },
+  "page": {
+    "landing": {
+      "title": {
+        "selectCountry": "Select your country"
+      },
+      "paragraph": {
+        "intro": "Every country has its own home page. Navigate to the correct page for your country by selecting your country below."
+      },
+      "countries": [
+        {
+          "code": "BEL",
+          "name": "Belgium"
+        },
+        {
+          "code": "NLD",
+          "name": "The Netherlands"
+        },
+        {
+          "code": "FRA",
+          "name": "France"
+        }
+      ]
+    },
+    "home": {
+      "title": {
+        "safetyCourses": "Safety courses",
+        "eLearningTools": "E-learning",
+        "slogan": "Building a better tomorrow"
+      },
+      "paragraph": {
+        "intro": "Your safety and our safety is our highest priority. Operating heavy machinery, transporting goods from one location to the next, ... . Follow the appropriate course below to get certified.",
+        "eLearningTools": "Master safe work practices"
+      },
+      "button": {
+        "workday": "Workday",
+        "workdaySSO": "Workday (SSO)",
+        "thar": "Thar",
+        "gpi": "GPI certificate",
+        "fastpass": "Fastpass flowsparks",
+        "ecampusLogin": "E-campus login",
+        "ecampusRegister": "E-campus register",
+        "poortinstructiesNetbeheerNederland": "Gate management utility station (NLD)"
+      }
+    },
+    "shortcuts": {
+      "title": {
+        "quickAccess": "Quick access links"
+      },
+      "paragraph": {
+        "intro": "Find a list of the most commonly used websites below. All other websites are not accessible from this computer for security reasons."
+      },
+      "button": {
+        "genesysCloud": "Genesys analytics dashboard",
+        "inbisco": "MIKS - Processes & documents"
+      }
+    },
+    "help": {
+      "title": {
+        "hereToHelp": "We're here to help"
+      },
+      "paragraph": {
+        "intro": "We aim to improve wherever possible. Feel free to reach out to us if you have questions or remarks."
+      },
+      "contact1": {
+        "title": "Health & safety",
+        "intro": "You've noticed a dangerous situation on site? Want to know more about the e-learning tool? Suggest an improvement?",
+        "person": {
+          "name": "Bob",
+          "phone": "xxx",
+          "email": "bob@mail.com",
+          "jobTitle": "Manager"
+        }
+      },
+      "contact2": {
+        "title": "IT Support",
+        "intro": "Something on the website didn't work? Computer problems?",
+        "person": {
+          "name": "Service desk",
+          "phone": "xxx",
+          "email": "mike@mail.com",
+          "jobTitle": "Friendly service desk agents"
+        }
+      }
+    }
+  },
+  "footer": {
+    "language": "Language",
+    "slogan": "Safety does not happen by accident"
+  }
+}

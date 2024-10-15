@@ -1,0 +1,98 @@
+{
+  "header": {
+    "navigation": {
+      "home": "Page d'accueil",
+      "shortcuts": "Raccourcis",
+      "help": "Aide"
+    }
+  },
+  "page": {
+    "landing": {
+      "title": {
+        "selectCountry": "Sélectionnez votre pays"
+      },
+      "paragraph": {
+        "intro": "Chaque pays a sa propre page d'accueil. Accédez à la page appropriée pour votre pays en sélectionnant votre pays ci-dessous."
+      },
+      "countries": [
+        {
+          "code": "BEL",
+          "name": "Belgique"
+        },
+        {
+          "code": "NLD",
+          "name": "Pays-Bas"
+        },
+        {
+          "code": "FRA",
+          "name": "France"
+        }
+      ]
+    },
+    "home": {
+      "title": {
+        "safetyCourses": "Cours de sécurité",
+        "eLearningTools": "Apprentissage en ligne",
+        "slogan": "Construire un avenir meilleur"
+      },
+      "paragraph": {
+        "intro": "Votre sécurité et notre sécurité sont notre priorité absolue. Conduire des machines lourdes, transporter des marchandises d'un endroit à un autre, ... . Suivez le cours approprié ci-dessous pour obtenir la certification.",
+        "eLearningTools": "Maîtriser les pratiques de travail sécuritaires"
+      },
+      "button": {
+        "workday": "Workday",
+        "workdaySSO": "Workday (SSO)",
+        "thar": "Thar",
+        "gpi": "Certificat GPI",
+        "fastpass": "Fastpass flowsparks",
+        "ecampusLogin": "E-campus se connecter",
+        "ecampusRegister": "E-campus registre",
+        "poortinstructiesNetbeheerNederland": "Station utilitaire de gestion de portes (NLD)"
+      }
+    },
+    "shortcuts": {
+      "title": {
+        "quickAccess": "Liens d'accès rapide"
+      },
+      "paragraph": {
+        "intro": "Trouvez ci-dessous une liste des sites Web les plus couramment utilisés. Tous les autres sites Web ne sont pas accessibles depuis cet ordinateur pour des raisons de sécurité."
+      },
+      "button": {
+        "genesysCloud": "Tableau de bord d'analyse Genesys",
+        "inbisco": "MIKS - Processus & documents"
+      }
+    },
+    "help": {
+      "title": {
+        "hereToHelp": "Nous sommes là pour vous aider"
+      },
+      "paragraph": {
+        "intro": "Nous visons à nous améliorer autant que possible. N'hésitez pas à nous contacter si vous avez des questions ou des remarques."
+      },
+      "contact1": {
+        "title": "Santé et sécurité",
+        "intro": "Vous avez constaté une situation dangereuse sur place? Vous souhaitez en savoir plus sur l’outil e-learning? Proposer une amélioration?",
+        "person": {
+          "name": "Bob",
+          "phone": "xxx",
+          "email": "bob@mail.com",
+          "jobTitle": "Responsable santé et sécurité"
+        }
+      },
+      "contact2": {
+        "title": "Support Informatique",
+        "intro": "Quelque chose sur le site Web n'a pas fonctionné? Des problèmes informatiques?",
+        "person": {
+          "name": "Centre de services informatiques",
+          "phone": "xxx",
+          "email": "mike@mail.com",
+          "jobTitle": "Agents du centre de services"
+        }
+      }
+    }
+  },
+  "footer": {
+    "language": "Langue",
+    "slogan": "La sécurité n'arrive pas par hasard"
+  }
+}
